@@ -145,12 +145,5 @@ class StarPortal(Portal):
             regions.append(sector)
         
         super().__init__(self.main_surface, regions, portal_functions, gluing_pattern, **kwargs)
-    
-
-    # def apply_rotation_symmetry(self, vmobject: VMobject, i: int) -> VMobject:
-    #     vmobject.shift(-self.star_center)
-    #     vmobject.rotate_about_origin(TAU * i / self.n)
-    #     vmobject.shift(self.star_center)
-    #     return vmobject
 
 
