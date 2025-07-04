@@ -1,7 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/colli/manimations/Portal Manimations/media/videos/StarPortalExample/1080p60/partial_movie_files/StarPortalExample/3977891868_948360720_1107238334.mp4'
-file 'file:C:/Users/colli/manimations/Portal Manimations/media/videos/StarPortalExample/1080p60/partial_movie_files/StarPortalExample/2852726489_1574153834_2505942329.mp4'
-file 'file:C:/Users/colli/manimations/Portal Manimations/media/videos/StarPortalExample/1080p60/partial_movie_files/StarPortalExample/2852726489_3173826305_1530322260.mp4'
-file 'file:C:/Users/colli/manimations/Portal Manimations/media/videos/StarPortalExample/1080p60/partial_movie_files/StarPortalExample/2852726489_414604961_3376299093.mp4'
-file 'file:C:/Users/colli/manimations/Portal Manimations/media/videos/StarPortalExample/1080p60/partial_movie_files/StarPortalExample/2852726489_4114323003_3943329472.mp4'
-file 'file:C:/Users/colli/manimations/Portal Manimations/media/videos/StarPortalExample/1080p60/partial_movie_files/StarPortalExample/2852726489_4006106251_1574598920.mp4'
